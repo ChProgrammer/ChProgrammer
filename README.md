@@ -3,7 +3,7 @@
 <br />
 
 ### <img align="left" width="26px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" />Discord:
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Curved_Arrow.svg/1200px-Curved_Arrow.svg.png" />DanielCh13#7256
+<img align="left" width="26px" src="https://lh3.googleusercontent.com/proxy/BWaoTEex_FnpX5Gdbtcu0fgPsY0FgfU7NUs0Eqp0UWUgG0DI_9BTserK_xVlSaIU5asxckrSs4-amvg5HwwuDNja_FUXcUVT9-4dZsndFooqD7YOix-fLfzK-B4DaRoL6m3DHw" />DanielCh13#7256
 
 <br />
 
