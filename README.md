@@ -1,4 +1,4 @@
-### ChProgrammer
+### <img align="left" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1488/1488581.svg" />ChProgrammer
 
 <br />
 
@@ -7,7 +7,7 @@
 
 <br />
 
-### Languages and Tools:
+### <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/1024px-Circle-icons-dev.svg.png" />Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
