@@ -2,8 +2,8 @@
 
 <br />
 
-### Discord:
-<img align="left" width="26px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" /> DanielCh13#7256
+<img align="left" width="26px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" /> ### Discord:
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Curved_Arrow.svg/1200px-Curved_Arrow.svg.png" /> DanielCh13#7256
 
 <br />
 
