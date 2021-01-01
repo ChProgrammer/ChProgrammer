@@ -23,7 +23,7 @@ DanielCh13#7256
 
 ---
 
-![ChProgrammer's github stats](https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true)
+![ChProgrammer's github stats](https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true?theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact)](https://github.com/ChProgrammer/github-readme-stats)
 
 [java]: https://github.com/topics/java
