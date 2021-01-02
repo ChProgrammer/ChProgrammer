@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><img width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1488/1488581.svg" />ChProgrammer</h3>
+  <h3><i class="fab fa-dev"></i>ChProgrammer</h3>
 </div>
 
 ---
