@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> <img width="48px" src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png"> ChProgrammer </h1>
+  <h1 align="center" align-content="center"> <img width="48px" src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png"> ChProgrammer </h1>
   <h2 align="center"> Discord: DanielCh13#7256 </h2>
 </p>
 <br>
