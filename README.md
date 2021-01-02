@@ -4,7 +4,7 @@
      ChProgrammer
   </h1>
   <h2 align="center">
-    <img align="left" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/discord-2749254-2284644.png"/>
+    <img align="left" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>
      Discord: DanielCh13#7256
   </h2>
 </p>
