@@ -5,7 +5,7 @@
   </h1>
   <h2 align="center">
     <img width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>
-     Discord: DanielCh13#7256
+     DanielCh13#7256
   </h2>
 </p>
 <br>
