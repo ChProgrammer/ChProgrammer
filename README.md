@@ -1,6 +1,6 @@
 <p align="center">
-  <h1> ChProgrammer </h1>
-  <h2> Discord: DanielCh13#7256 </h2>
+  <h1 align="center"> ChProgrammer </h1>
+  <h2 align="center"> Discord: DanielCh13#7256 </h2>
 </p>
 
 ---
