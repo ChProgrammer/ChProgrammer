@@ -1,6 +1,7 @@
-## ChProgrammer
-
-### Discord: DanielCh13#7256
+<p>
+  ## ChProgrammer
+  ## Discord: DanielCh13#7256
+</p>
 
 ---
 
