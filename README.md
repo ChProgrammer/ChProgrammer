@@ -1,15 +1,15 @@
 <p align="center">
   <h1 align="center">
-  <a href="https://discord.gg/SChskaznDG">
-    <img width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
+    <a href="https://discord.gg/SChskaznDG">
+      <img width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
+    </a>
     <p>ChProgrammer</p>
-    </a
   </h1>
   <h2 align="center">
     <a href="https://discord.gg/SChskaznDG">
-    <img width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>
-     DanielCh13#7256
+      <img width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>
     </a>
+    <p>DanielCh13#7256</p>
   </h2>
 </p>
 <br>
