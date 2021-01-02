@@ -1,14 +1,16 @@
 <p align="center">
-  <h1 align="center">
+  <h1>
+  <a href="https://discord.gg/SChskaznDG">
     <img width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
      ChProgrammer
+    </a
   </h1>
-  <a href="https://discord.gg/SChskaznDG">
   <h2 align="center">
+    <a href="https://discord.gg/SChskaznDG">
     <img width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"/>
      DanielCh13#7256
+    </a>
   </h2>
-  </a>
 </p>
 <br>
 <div align="center">
