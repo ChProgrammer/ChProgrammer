@@ -12,5 +12,5 @@
     <img width="33%" height="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
 </a>
 <a href="https://github.com/ChProgrammer">
-    <img width="33%" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
+    <img width="33%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
 </a>
