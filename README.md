@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
-<img width="500px" height="100px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
-<img width="500px" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
+<img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
+<img width="500px" height="100px" display="inline-block" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
+<img width="500px" height="100px" display="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
 
