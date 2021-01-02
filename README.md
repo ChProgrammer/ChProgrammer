@@ -6,12 +6,14 @@
 
 ---
 
-<a href="https://github.com/ChProgrammer">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/ChProgrammer">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
-</a>
-<a href="https://github.com/ChProgrammer">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
-</a>
+<container style="display: flex;flex-direction:column;align-items: center;width: 100%;height: 100%;">
+    <a style="height: 100%;width: 100%;display: grid;place-items: center;margin-bottom: 1%" href="https://github.com/ChProgrammer"
+        <img src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
+    </a>
+    <a style="height: 100%;width: 100%;display: grid;place-items: center;margin-bottom: 1%" href="https://github.com/ChProgrammer">
+        <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
+    </a>
+    <a style="height: 100%;width: 100%;display: grid;place-items: center;margin-bottom: 1%" href="https://github.com/ChProgrammer">
+        <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
+    </a>
+</container>
