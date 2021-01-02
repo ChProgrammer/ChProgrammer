@@ -8,4 +8,4 @@
 
 ![ChProgrammer's github stats](https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&layout=compact&theme=dark)
