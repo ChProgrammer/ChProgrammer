@@ -11,12 +11,12 @@
   </p>
 </a>
 <a href="https://github.com/ChProgrammer">
-  <p align="left">
+  <p align="center">
     <img style="display:'inline-block';margin: 0 auto" width="100%" height="100px"  src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
   </p>
 </a>
 <a href="https://github.com/ChProgrammer">
-  <p align="left">
+  <p align="rigth">
     <img style="display:'inline-block;margin: 0 auto'" width="100%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
   </p>
 </a>
