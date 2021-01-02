@@ -6,7 +6,7 @@
 
 ---
 <a href="https://github.com/ChProgrammer">
-    <img align="left" margin="0.3%" width="33%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
+    <img margin="0.3%" width="33%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/ChProgrammer">
     <img align="left" margin="0.3%" width="33%" height="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
