@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><img src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png"> ChProgrammer</h3>
+  <h3><img width="26px" src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png"> ChProgrammer</h3>
 </div>
 
 ---
