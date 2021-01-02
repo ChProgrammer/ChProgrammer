@@ -6,7 +6,7 @@
 
 ---
 
-<container style="display: flex;flex-direction:column;align-items: center;width: 100%;height: 100%;box-sizing: border-box;">
+<container style="background-color: red;display: flex;flex-direction:column;align-items: center;width: 100%;height: 100%;box-sizing: border-box;">
     <a style="height: 33%;width: 100%;display: grid;place-items: center;margin-bottom: 1%;box-sizing: border-box;" href="https://github.com/ChProgrammer">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
     </a>
