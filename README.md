@@ -1,6 +1,6 @@
 <div style="display: flex; align-items:center;" align="center">
   <img width="26px" src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png">
-  <h3><p align="center">ChProgrammer</p></h3>
+  <h3>ChProgrammer</h3>
 </div>
 
 ---
