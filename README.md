@@ -6,7 +6,7 @@
 
 ---
 <a href="https://github.com/ChProgrammer">
-  <p align="center">
+  <p align="left">
     <img style="display:'inline-block'" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
   </p>
 </a>
