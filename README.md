@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-    <img align="left" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png"/>
+    <img align="left" width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
      ChProgrammer
   </h1>
   <h2 align="center">
