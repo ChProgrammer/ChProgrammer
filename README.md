@@ -1,6 +1,6 @@
 <p>
-  ## ChProgrammer
-  ## Discord: DanielCh13#7256
+  <h1> ChProgrammer </h1>
+  <h2> Discord: DanielCh13#7256 </h2>
 </p>
 
 ---
