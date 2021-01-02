@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <h1> ChProgrammer </h1>
   <h2> Discord: DanielCh13#7256 </h2>
 </p>
