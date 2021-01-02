@@ -2,7 +2,7 @@
   <h1 align="center">
   <a href="https://discord.gg/SChskaznDG">
     <img width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
-     ChProgrammer
+    <p>ChProgrammer</p>
     </a
   </h1>
   <h2 align="center">
