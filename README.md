@@ -1,6 +1,7 @@
 <p align="center">
   <img align="left" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png"/>
   <h1 align="center"> ChProgrammer </h1>
+  <img align="left" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/discord-2749254-2284644.png"/>
   <h2 align="center"> Discord: DanielCh13#7256 </h2>
 </p>
 <br>
