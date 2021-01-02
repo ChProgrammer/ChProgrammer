@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <h3><img width="26px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" /> Discord:<p align="center">DanielCh13#7256</p></h3>
+  <h3><img width="26px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-discord.png?w=585&scale=down" /><p align="center">DanielCh13#7256</p></h3>
 </div>
 
 ---
