@@ -6,11 +6,11 @@
 
 ---
 <a href="https://github.com/ChProgrammer">
-    <img align="left" margin="0.3%" width="33%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
+    <img align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/ChProgrammer">
-    <img align="center" margin="0.3%" width="33%" height="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
+    <img align="center" width="32%" height="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
 </a>
 <a href="https://github.com/ChProgrammer">
-    <img align="right" width="33%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
+    <img align="right" width="32%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
 </a>
