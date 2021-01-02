@@ -9,8 +9,8 @@
     <img align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=ChProgrammer&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/ChProgrammer">
-    <img align="center" width="32%" height="100px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
+    <img align="center" width="32%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChProgrammer&theme=dark" />
 </a>
 <a href="https://github.com/ChProgrammer">
-    <img align="right" width="32%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
+    <img align="right" width="32%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
 </a>
