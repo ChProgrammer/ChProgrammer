@@ -27,6 +27,6 @@
 </div>
 <div align="center">
   <a href="https://github.com/ChProgrammer">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&layout=compact&theme=dark" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChProgrammer&theme=dark" />
   </a>
 </div>
